@@ -59,6 +59,7 @@
 
 | 技能 | Star | 更新时间 | 说明 | 仓库 |
 | --- | --- | --- | --- | --- |
+| `Anthropic-Cybersecurity-Skills` | ![GitHub Repo stars](https://img.shields.io/github/stars/mukul975/Anthropic-Cybersecurity-Skills?style=social) | 2026-06-26 | 817 个结构化网络安全技能，映射 MITRE ATT&CK、NIST、OWASP 等 6 大框架，覆盖进攻 / 防御 / 合规全谱系，目前规模最大的 AI 安全技能库 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) |
 | `claude-skills` | ![GitHub Repo stars](https://img.shields.io/github/stars/alirezarezvani/claude-skills?style=social) | 2026-04-28 | 232+ 技能大型集合，包含多个安全相关子技能：senior-security（威胁建模/渗透测试/OWASP）、ai-security（Prompt 注入检测/模型安全）、cloud-security（CSPM 云安全）、security-pen-testing 等，推荐作为技能库底座 | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) |
 | `skills` | ![GitHub Repo stars](https://img.shields.io/github/stars/trailofbits/skills?style=social) | 2026-04-29 | Trail of Bits 出品，17+ 安全研究技能 —— 漏洞检测、差分代码审查、审计上下文构建、修复验证，专注安全研究、漏洞检测与审计工作流，质量较高 | [trailofbits/skills](https://github.com/trailofbits/skills) |
 | `SecSkills` | ![GitHub Repo stars](https://img.shields.io/github/stars/DaoYiSec/SecSkills?style=social) | 2026-04-21 | 刀义安全出品，53 个安全技能索引，覆盖代码审计、渗透测试、JS 逆向、CTF、红蓝对抗、移动安全、应急响应等 16 个分类 | [DaoYiSec/SecSkills](https://github.com/DaoYiSec/SecSkills) |
