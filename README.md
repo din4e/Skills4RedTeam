@@ -53,6 +53,7 @@
 | 技能 | Star | 更新时间 | 说明 | 仓库 |
 | --- | --- | --- | --- | --- |
 | `wooyun-legacy` | ![GitHub Repo stars](https://img.shields.io/github/stars/tanweai/wooyun-legacy?style=social) | 2026-03-08 | WooYun 漏洞知识库 —— 88,636 个真实漏洞案例（SQL 注入 27%、命令执行 19%、XSS 11% 等 15 种类型），86MB 精炼安全方法论 | [tanweai/wooyun-legacy](https://github.com/tanweai/wooyun-legacy) |
+| `secknowledge-skill` | ![GitHub Repo stars](https://img.shields.io/github/stars/Pa55w0rd/secknowledge-skill?style=social) | 2026-06-17 | Web 与 AI 安全测试知识技能 —— 克隆到 skills 目录后自动加载，提供测试方法论与安全知识库 | [Pa55w0rd/secknowledge-skill](https://github.com/Pa55w0rd/secknowledge-skill) |
 
 ### 综合安全仓库
 
