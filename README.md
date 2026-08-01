@@ -33,6 +33,7 @@
 
 | 技能 | Star | 更新时间 | 说明 | 仓库 |
 | --- | --- | --- | --- | --- |
+| `reverse-skill` | ![GitHub Repo stars](https://img.shields.io/github/stars/zhaoxuya520/reverse-skill?style=social) | 2026-08-01 | 逆向/渗透/安全研究技能路由包 —— AI 自动路由（识别任务类型匹配方法论）+ 按需自举工具链 + 自动进化经验库；覆盖 Android/iOS/二进制/.NET/JS 逆向、恶意代码分析、Pwn、CTF（40+ 子技能）、固件 IoT、N-day、EDR 规避、API 安全、LLM 安全等 18+ 场景；支持 Claude Code / Cursor / Cline 等 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) |
 | `android-reverse-engineering` | ![GitHub Repo stars](https://img.shields.io/github/stars/SimoneAvogadro/android-reverse-engineering-skill?style=social) | 2026-04-27 | Android APK/XAPK/JAR/AAR 逆向 —— jadx 反编译、Retrofit/OkHttp API 提取、调用流追踪、ProGuard 混淆分析 | [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) |
 | `reverse-engineering` | ![GitHub Repo stars](https://img.shields.io/github/stars/P4nda0s/reverse-skills?style=social) | 2026-04-21 | 二进制逆向工程 —— 配合 IDA-NO-MCP 导出反编译结果，分析函数符号、重建数据结构（rev-symbol / rev-struct） | [P4nda0s/reverse-skills](https://github.com/P4nda0s/reverse-skills) |
 | `ai-mobile-reverse-skills` | ![GitHub Repo stars](https://img.shields.io/github/stars/Fausto-404/ai-mobile-reverse-skills?style=social) | 2026-04-28 | 移动安全分析 6 阶段总控 —— APK 静态侦察、流量与代码对齐、SO/JNI 深度分析、加密与漏洞综合分析、验证设计与报告交付，支持 JADX/Burp/Yakit/IDA/Ghidra MCP | [Fausto-404/ai-mobile-reverse-skills](https://github.com/Fausto-404/ai-mobile-reverse-skills) |
