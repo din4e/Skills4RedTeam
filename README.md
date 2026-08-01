@@ -10,16 +10,24 @@
 
 ## 社区技能推荐
 
-以下为社区开源的优秀安全技能，按 Star 数降序排列，数据更新于 2026-05-06。
+以下为社区开源的优秀安全技能，按 Star 数降序排列，数据更新于 2026-08-01。
 
 ### 攻防渗透
 
 | 技能 | Star | 更新时间 | 说明 | 仓库 |
 | --- | --- | --- | --- | --- |
+| `raptor` | ![GitHub Repo stars](https://img.shields.io/github/stars/gadievron/raptor?style=social) | 2026-08-01 | 将 Claude Code 转为通用攻防安全 agent，覆盖侦察 → 入侵 → 横向移动 → 后渗透全流程，自动编排攻击链（疑为 GitHub Trending 榜首的全自动 AI 渗透测试员） | [gadievron/raptor](https://github.com/gadievron/raptor) |
+| `Claude-BugHunter` | ![GitHub Repo stars](https://img.shields.io/github/stars/elementalsouls/Claude-BugHunter?style=social) | 2026-07-31 | 红队 / 外部渗透漏洞挖掘技能包 —— 82 个 skill + 15 个 slash command，聚焦 bug bounty 与红队行动方法论 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) |
 | `Claude-Red` | ![GitHub Repo stars](https://img.shields.io/github/stars/SnailSploit/Claude-Red?style=social) | 2026-04-15 | 37 个即插即用的攻击性安全技能 —— Web 攻击（SQLi/XSS/SSRF/SSTI/XXE）、Shellcode 编写、EDR 规避、漏洞利用开发、红队行动、OSINT、模糊测试等 | [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) |
-| `Claude-Code-CyberSecurity-Skill` | ![GitHub Repo stars](https://img.shields.io/github/stars/Masriyan/Claude-Code-CyberSecurity-Skill?style=social) | 2026-02-27 | 15 个 Claude Code 安全技能，覆盖攻击性安全、防御运营、逆向工程、威胁狩猎、CSOC 自动化、红队行动、密码分析等，较为全面的 Cybersecurity 技能集合 | [Masriyan/Claude-Code-CyberSecurity-Skill](https://github.com/Masriyan/Claude-Code-CyberSecurity-Skill) |
+| `Claude-OSINT` | ![GitHub Repo stars](https://img.shields.io/github/stars/elementalsouls/Claude-OSINT?style=social) | 2026-06-08 | OSINT / 侦察技能对 —— 90+ 侦察模块、48 个 secret-regex 模式、80+ Google dorks、9 个侦察引擎 | [elementalsouls/Claude-OSINT](https://github.com/elementalsouls/Claude-OSINT) |
+| `iothackbot` | ![GitHub Repo stars](https://img.shields.io/github/stars/BrownFineSecurity/iothackbot?style=social) | 2026-06-01 | IoT 渗透测试技能集 + 混合 IoT pentest 工具链（固件分析、硬件接口、无线协议等） | [BrownFineSecurity/iothackbot](https://github.com/BrownFineSecurity/iothackbot) |
+| `communitytools` | ![GitHub Repo stars](https://img.shields.io/github/stars/transilienceai/communitytools?style=social) | 2026-07-29 | 面向 AI 驱动渗透测试的开源 skills / agents / slash commands 集合 | [transilienceai/communitytools](https://github.com/transilienceai/communitytools) |
+| `cti-expert` | ![GitHub Repo stars](https://img.shields.io/github/stars/7onez/cti-expert?style=social) | 2026-08-01 | 网络威胁情报（CTI）& OSINT 分析技能 —— 67+ commands，IOC 提取、威胁画像、情报收集与关联 | [7onez/cti-expert](https://github.com/7onez/cti-expert) |
+| `awesome-skills-security` | ![GitHub Repo stars](https://img.shields.io/github/stars/Eyadkelleh/awesome-skills-security?style=social) | 2026-06-08 | 从 SecLists 打包的安全测试工具包，提供 wordlists、injection payloads、patterns、webshells 等，即插即用，适合 pentest、CTF、bug bounty | [Eyadkelleh/awesome-skills-security](https://github.com/Eyadkelleh/awesome-skills-security) |
+| `pentest-skills` | ![GitHub Repo stars](https://img.shields.io/github/stars/crazyMarky/pentest-skills?style=social) | 2026-06-04 | 模块化渗透测试技能 —— 自然语言驱动专业级 pentest（信息收集 → 漏洞利用 → 后渗透），支持 Claude Code / Gemini CLI | [crazyMarky/pentest-skills](https://github.com/crazyMarky/pentest-skills) |
 | `red-run` | ![GitHub Repo stars](https://img.shields.io/github/stars/blacklanternsecurity/red-run?style=social) | 2026-04-01 | 攻击性安全工具包，结合 Skills + MCP Servers + Agent Teams，实现 recon → initial access → lateral movement → privilege escalation → post-access 完整红队流程路由 | [blacklanternsecurity/red-run](https://github.com/blacklanternsecurity/red-run) |
-| `awesome-claude-skills-security` | ![GitHub Repo stars](https://img.shields.io/github/stars/Eyadkelleh/awesome-claude-skills-security?style=social) | 2026-03-21 | 从 SecLists 打包的安全测试工具包，提供 wordlists、injection payloads、patterns、webshells 等，即插即用，适合 pentest、CTF、bug bounty | [Eyadkelleh/awesome-claude-skills-security](https://github.com/Eyadkelleh/awesome-claude-skills-security) |
+| `Claude-Code-CyberSecurity-Skill` | ![GitHub Repo stars](https://img.shields.io/github/stars/Masriyan/Claude-Code-CyberSecurity-Skill?style=social) | 2026-02-27 | 15 个 Claude Code 安全技能，覆盖攻击性安全、防御运营、逆向工程、威胁狩猎、CSOC 自动化、红队行动、密码分析等，较为全面的 Cybersecurity 技能集合 | [Masriyan/Claude-Code-CyberSecurity-Skill](https://github.com/Masriyan/Claude-Code-CyberSecurity-Skill) |
+| `Black-cat` | ![GitHub Repo stars](https://img.shields.io/github/stars/0rangec3t/Black-cat?style=social) | 2026-07-31 | 假设-证据驱动的红队技能（Hypothesis-Driven Cognitive Architecture）—— 区别于流水线式 pentest skill，采用状态机设计（RECON ⇄ ENUMERATE ⇄ VALIDATE），失败与新发现可回溯重启早期阶段；覆盖信息收集、Web 渗透、内网横向、云安全、EDR 规避、数据库利用、逆向工程等 7 个 technique | [0rangec3t/Black-cat](https://github.com/0rangec3t/Black-cat) |
 
 ### 逆向工程
 
