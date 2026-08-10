@@ -28,6 +28,7 @@
 | `red-run` | ![GitHub Repo stars](https://img.shields.io/github/stars/blacklanternsecurity/red-run?style=social) | 2026-04-01 | 攻击性安全工具包，结合 Skills + MCP Servers + Agent Teams，实现 recon → initial access → lateral movement → privilege escalation → post-access 完整红队流程路由 | [blacklanternsecurity/red-run](https://github.com/blacklanternsecurity/red-run) |
 | `Claude-Code-CyberSecurity-Skill` | ![GitHub Repo stars](https://img.shields.io/github/stars/Masriyan/Claude-Code-CyberSecurity-Skill?style=social) | 2026-02-27 | 15 个 Claude Code 安全技能，覆盖攻击性安全、防御运营、逆向工程、威胁狩猎、CSOC 自动化、红队行动、密码分析等，较为全面的 Cybersecurity 技能集合 | [Masriyan/Claude-Code-CyberSecurity-Skill](https://github.com/Masriyan/Claude-Code-CyberSecurity-Skill) |
 | `Black-cat` | ![GitHub Repo stars](https://img.shields.io/github/stars/0rangec3t/Black-cat?style=social) | 2026-07-31 | 假设-证据驱动的红队技能（Hypothesis-Driven Cognitive Architecture）—— 区别于流水线式 pentest skill，采用状态机设计（RECON ⇄ ENUMERATE ⇄ VALIDATE），失败与新发现可回溯重启早期阶段；覆盖信息收集、Web 渗透、内网横向、云安全、EDR 规避、数据库利用、逆向工程等 7 个 technique | [0rangec3t/Black-cat](https://github.com/0rangec3t/Black-cat) |
+| `av-evasion-skills` | ![GitHub Repo stars](https://img.shields.io/github/stars/bluechips-zhao/av-evasion-skills?style=social) | 2026-08-10 | Shellcode 免杀技能 v5.2 —— Indirect Syscall、ETW 补丁、Module Stomping、.text Code Cave、IPv4/XOR 混淆、HeapAlloc 缓冲等技术，从静态特征、行为轨迹、EDR 感知三层绕过主流杀软与 EDR（Python 处理脚本 + C Loader 完整生成链） | [bluechips-zhao/av-evasion-skills](https://github.com/bluechips-zhao/av-evasion-skills) |
 
 ### 逆向工程
 
