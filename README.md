@@ -10,7 +10,7 @@
 
 ## 社区技能推荐
 
-以下为社区开源的优秀安全技能，按 Star 数降序排列，数据更新于 2026-09-08。
+以下为社区开源的优秀安全技能，按 Star 数降序排列，数据更新于 2026-09-18。
 
 ### 攻防渗透
 
@@ -64,6 +64,7 @@
 
 | 技能 | Star | 更新时间 | 说明 | 仓库 |
 | --- | --- | --- | --- | --- |
+| `security-audit` | ![GitHub Repo stars](https://img.shields.io/github/stars/cloudflare/security-audit-skill?style=for-the-badge&label=%E2%AD%90) | 2026-09-14 | Cloudflare 官方多阶段安全审计技能 —— 编排隔离子代理执行六阶段审计（侦察 → 覆盖率驱动狩猎 → 候选验证 → 结构化输出 → 独立记录复核 → 中立报告）；对抗式验证（验证者永非发现者），findings 按 confirmed / needs_validation / rejected 三级判定并经 JSON schema 校验；覆盖内存安全/二进制、AI/LLM 注入、Web 协议/认证、客户端、供应链、云与 IaC、RPC/消息、资源耗尽、数据隔离、桌面/移动 IPC 等 10+ 类攻击面；多次运行增量累积覆盖率，是 Cloudflare 全舰队漏洞挖掘 harness 的单仓库起点（[官方博客](https://blog.cloudflare.com/build-your-own-vulnerability-harness)） | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) |
 | `VibeSec-Skill` | ![GitHub Repo stars](https://img.shields.io/github/stars/BehiSecc/VibeSec-Skill?style=for-the-badge&label=%E2%AD%90) | 2026-02-17 | 安全优先代码审查 —— 以漏洞猎手视角审视代码，捕获 Web 应用常见漏洞（OWASP Top 10），防御性安全辅助 | [BehiSecc/VibeSec-Skill](https://github.com/BehiSecc/VibeSec-Skill) |
 | `audit-skills` | ![GitHub Repo stars](https://img.shields.io/github/stars/RuoJi6/audit-skills?style=for-the-badge&label=%E2%AD%90) | 2026-06-16 | Java Web 源码安全审计 —— 路由提取、SQL 注入/XXE/文件上传/鉴权绕过多维度自动化审计；轻量化设计，只负责安全边界（原 `java-audit-skills`，已改名） | [RuoJi6/audit-skills](https://github.com/RuoJi6/audit-skills) |
 | `code-audit` | ![GitHub Repo stars](https://img.shields.io/github/stars/3stoneBrother/code-audit?style=for-the-badge&label=%E2%AD%90) | 2026-02-13 | 通用代码审计 —— 支持 55+ 漏洞类型，双轨审计模型（自动化 + 专家模式），覆盖 Java/Python/Go/PHP/JS/C 等多语言 | [3stoneBrother/code-audit](https://github.com/3stoneBrother/code-audit) |
