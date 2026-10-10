@@ -10,17 +10,17 @@
 
 ## 社区技能推荐
 
-以下为社区开源的优秀安全技能，按 Star 数降序排列，数据更新于 2026-10-09。
+以下为社区开源的优秀安全技能，按 Star 数降序排列，数据更新于 2026-10-10。
 
 ### 攻防渗透
 
 | 技能 | Star | 更新时间 | 说明 | 仓库 |
 | --- | --- | --- | --- | --- |
 | `Claude-Red` | ![GitHub Repo stars](https://img.shields.io/github/stars/SnailSploit/Claude-Red?style=for-the-badge&label=%E2%AD%90) | 2026-09-20 | 37 个即插即用的攻击性安全技能 —— Web 攻击（SQLi/XSS/SSRF/SSTI/XXE）、Shellcode 编写、EDR 规避、漏洞利用开发、红队行动、OSINT、模糊测试等 | [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) |
-| `Claude-BugHunter` | ![GitHub Repo stars](https://img.shields.io/github/stars/elementalsouls/Claude-BugHunter?style=for-the-badge&label=%E2%AD%90) | 2026-10-08 | 红队 / 外部渗透漏洞挖掘技能包 —— 82 个 skill + 15 个 slash command + 681 份已披露报告模式（覆盖 24 类核心漏洞）+ 企业身份与基础设施攻击矩阵，聚焦 bug bounty 与红队行动方法论 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) |
+| `Claude-BugHunter` | ![GitHub Repo stars](https://img.shields.io/github/stars/elementalsouls/Claude-BugHunter?style=for-the-badge&label=%E2%AD%90) | 2026-10-10 | 红队 / 外部渗透漏洞挖掘技能包 —— 82 个 skill + 15 个 slash command + 681 份已披露报告模式（覆盖 24 类核心漏洞）+ 企业身份与基础设施攻击矩阵，聚焦 bug bounty 与红队行动方法论 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) |
 | `raptor` | ![GitHub Repo stars](https://img.shields.io/github/stars/gadievron/raptor?style=for-the-badge&label=%E2%AD%90) | 2026-10-08 | 将 Claude Code 转为通用攻防安全 agent，覆盖侦察 → 入侵 → 横向移动 → 后渗透全流程，自动编排攻击链（疑为 GitHub Trending 榜首的全自动 AI 渗透测试员） | [gadievron/raptor](https://github.com/gadievron/raptor) |
 | `ctf-skills` | ![GitHub Repo stars](https://img.shields.io/github/stars/ljagiello/ctf-skills?style=for-the-badge&label=%E2%AD%90) | 2026-09-14 | CTF 全类别解题技能 —— 覆盖 Web 漏洞利用、二进制 Pwn、密码学、逆向、取证、OSINT 等题型，按挑战类型自动匹配方法论 | [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills) |
-| `Claude-OSINT` | ![GitHub Repo stars](https://img.shields.io/github/stars/elementalsouls/Claude-OSINT?style=for-the-badge&label=%E2%AD%90) | 2026-08-31 | OSINT / 侦察技能包 —— 8 个 skill、100+ 侦察能力、80 个 secret-regex 模式、80+ Google dorks、9 个只读凭证验证器、27 个攻击路径模板，约万行结构化 tradecraft | [elementalsouls/Claude-OSINT](https://github.com/elementalsouls/Claude-OSINT) |
+| `Claude-OSINT` | ![GitHub Repo stars](https://img.shields.io/github/stars/elementalsouls/Claude-OSINT?style=for-the-badge&label=%E2%AD%90) | 2026-10-10 | OSINT / 侦察技能包 —— 8 个 skill、100+ 侦察能力、80 个 secret-regex 模式、80+ Google dorks、9 个只读凭证验证器、27 个攻击路径模板，约万行结构化 tradecraft | [elementalsouls/Claude-OSINT](https://github.com/elementalsouls/Claude-OSINT) |
 | `iothackbot` | ![GitHub Repo stars](https://img.shields.io/github/stars/BrownFineSecurity/iothackbot?style=for-the-badge&label=%E2%AD%90) | 2026-06-01 | IoT 渗透测试技能集 + 混合 IoT pentest 工具链（固件分析、硬件接口、无线协议等） | [BrownFineSecurity/iothackbot](https://github.com/BrownFineSecurity/iothackbot) |
 | `skills` | ![GitHub Repo stars](https://img.shields.io/github/stars/SpecterOps/skills?style=for-the-badge&label=%E2%AD%90) | 2026-09-23 | SpecterOps（BloodHound 作者公司）出品的红队 AI skills marketplace，Outflank 与 Fortra 协作共建（[发布公告](https://www.outflank.nl/blog/2026/09/02/red-team-ai-skills/)）—— 26 个插件覆盖 C2（Cobalt Strike/Mythic/Outflank C2）、AD 攻防（ADCS/SCCM/MSSQL/侦察）、Windows/Linux/mac 三平台 tradecraft、payload、社工、逆向、报告生成，集成 BloodHound/Ghostwriter/Binary Ninja MCP，对标 Trail of Bits marketplace | [SpecterOps/skills](https://github.com/SpecterOps/skills) |
 | `src-hunter-skill` | ![GitHub Repo stars](https://img.shields.io/github/stars/MyuriKanao/src-hunter-skill?style=for-the-badge&label=%E2%AD%90) | 2026-05-24 | 实战 SRC / 众测 / Bug bounty 漏洞挖掘技能 —— 19 个攻击类 playbook、305 个结构化 payload、263 个 WAF/EDR 绕过技巧、2887 份 HackerOne 真实案例与 88,636 条 WooYun 案例统计（仓库已归档，内容仍具参考价值） | [MyuriKanao/src-hunter-skill](https://github.com/MyuriKanao/src-hunter-skill) |
@@ -76,14 +76,14 @@
 | 技能 | Star | 更新时间 | 说明 | 仓库 |
 | --- | --- | --- | --- | --- |
 | `wooyun-legacy` | ![GitHub Repo stars](https://img.shields.io/github/stars/tanweai/wooyun-legacy?style=for-the-badge&label=%E2%AD%90) | 2026-07-14 | WooYun 漏洞知识库 —— 88,636 个真实漏洞案例（SQL 注入 27%、命令执行 19%、XSS 11% 等 15 种类型），86MB 精炼安全方法论 | [tanweai/wooyun-legacy](https://github.com/tanweai/wooyun-legacy) |
-| `AboutSecurity` | ![GitHub Repo stars](https://img.shields.io/github/stars/wgpsec/AboutSecurity?style=for-the-badge&label=%E2%AD%90) | 2026-10-08 | WgpSec 出品的渗透测试知识库 —— 以 AI Agent 可执行的格式沉淀安全方法论，覆盖渗透测试全领域知识 | [wgpsec/AboutSecurity](https://github.com/wgpsec/AboutSecurity) |
+| `AboutSecurity` | ![GitHub Repo stars](https://img.shields.io/github/stars/wgpsec/AboutSecurity?style=for-the-badge&label=%E2%AD%90) | 2026-10-10 | WgpSec 出品的渗透测试知识库 —— 以 AI Agent 可执行的格式沉淀安全方法论，覆盖渗透测试全领域知识 | [wgpsec/AboutSecurity](https://github.com/wgpsec/AboutSecurity) |
 | `secknowledge-skill` | ![GitHub Repo stars](https://img.shields.io/github/stars/Pa55w0rd/secknowledge-skill?style=for-the-badge&label=%E2%AD%90) | 2026-06-17 | Web 与 AI 安全测试知识技能 —— 克隆到 skills 目录后自动加载，提供测试方法论与安全知识库 | [Pa55w0rd/secknowledge-skill](https://github.com/Pa55w0rd/secknowledge-skill) |
 
 ### 安全防护
 
 | 技能 | Star | 更新时间 | 说明 | 仓库 |
 | --- | --- | --- | --- | --- |
-| `SkillSpector` | ![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA/SkillSpector?style=for-the-badge&label=%E2%AD%90) | 2026-10-09 | NVIDIA 出品的 Agent Skills 安全扫描器 —— 安装前检测 skills 中的提示注入、数据外传、恶意模式与供应链风险，支持 Claude Code / Codex / MCP skills | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) |
+| `SkillSpector` | ![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA/SkillSpector?style=for-the-badge&label=%E2%AD%90) | 2026-10-10 | NVIDIA 出品的 Agent Skills 安全扫描器 —— 安装前检测 skills 中的提示注入、数据外传、恶意模式与供应链风险，支持 Claude Code / Codex / MCP skills | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) |
 | `repo-forensics` | ![GitHub Repo stars](https://img.shields.io/github/stars/alexgreensh/repo-forensics?style=for-the-badge&label=%E2%AD%90) | 2026-09-27 | 离线安全扫描器 —— 审计 AI agent 仓库、skills、插件与 MCP server 的安全风险 | [alexgreensh/repo-forensics](https://github.com/alexgreensh/repo-forensics) |
 
 ### 综合安全仓库
@@ -92,7 +92,7 @@
 | --- | --- | --- | --- | --- |
 | `Anthropic-Cybersecurity-Skills` | ![GitHub Repo stars](https://img.shields.io/github/stars/mukul975/Anthropic-Cybersecurity-Skills?style=for-the-badge&label=%E2%AD%90) | 2026-08-31 | 817 个结构化网络安全技能，映射 MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND、NIST AI RMF、MITRE F3 等 6 大框架，覆盖 29 个安全域、进攻 / 防御 / 合规全谱系，支持 Claude Code / Copilot / Codex / Cursor / Gemini CLI 等 20+ 平台，目前规模最大的 AI 安全技能库 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) |
 | `claude-skills` | ![GitHub Repo stars](https://img.shields.io/github/stars/alirezarezvani/claude-skills?style=for-the-badge&label=%E2%AD%90) | 2026-08-30 | 380+ 技能大型集合（30+ Agents、70+ 自定义命令），包含多个安全相关子技能：senior-security（威胁建模/渗透测试/OWASP）、ai-security（Prompt 注入检测/模型安全）、cloud-security（CSPM 云安全）、security-pen-testing 等，推荐作为技能库底座 | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) |
-| `skills` | ![GitHub Repo stars](https://img.shields.io/github/stars/trailofbits/skills?style=for-the-badge&label=%E2%AD%90) | 2026-10-08 | Trail of Bits 出品，17+ 安全研究技能 —— 漏洞检测、差分代码审查、审计上下文构建、修复验证，专注安全研究、漏洞检测与审计工作流，质量较高 | [trailofbits/skills](https://github.com/trailofbits/skills) |
+| `skills` | ![GitHub Repo stars](https://img.shields.io/github/stars/trailofbits/skills?style=for-the-badge&label=%E2%AD%90) | 2026-10-10 | Trail of Bits 出品，17+ 安全研究技能 —— 漏洞检测、差分代码审查、审计上下文构建、修复验证，专注安全研究、漏洞检测与审计工作流，质量较高 | [trailofbits/skills](https://github.com/trailofbits/skills) |
 | `SecSkills` | ![GitHub Repo stars](https://img.shields.io/github/stars/DaoYiSec/SecSkills?style=for-the-badge&label=%E2%AD%90) | 2026-09-14 | 刀义安全出品，53 个安全技能索引，覆盖代码审计、渗透测试、JS 逆向、CTF、红蓝对抗、移动安全、应急响应等 16 个分类 | [DaoYiSec/SecSkills](https://github.com/DaoYiSec/SecSkills) |
 | `openclaw-sec-skills` | ![GitHub Repo stars](https://img.shields.io/github/stars/Batman0506/openclaw-sec-skills?style=for-the-badge&label=%E2%AD%90) | 2026-06-25 | OpenClaw 社区安全技能大全，150+ 技能索引，涵盖代码审计、渗透测试、逆向工程、CTF、威胁建模、移动安全、应急响应、安全工具 8 大领域 | [Batman0506/openclaw-sec-skills](https://github.com/Batman0506/openclaw-sec-skills) |
 
